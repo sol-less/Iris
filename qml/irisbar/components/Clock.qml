@@ -19,7 +19,7 @@ Rectangle {
         text: Qt.formatDateTime(sysClock.date, "hh:mm")
         font.family: "Google Sans"
         font.weight: Font.Bold
-        font.pixelSize: 16
+        font.pixelSize: 14
         color: Theme.md3.on_primary
     }
 }

@@ -1,0 +1,18 @@
+{
+    "launcher": {
+        "width": 500,
+        "height": 200
+    },
+    "wallpaper_picker": {
+        "width": 500,
+        "height": 200
+    },
+    "notch": {
+        "width": 500,
+        "height": 200
+    },
+    "max": {
+        "width": 900,
+        "height": 900
+    }
+}

@@ -22,6 +22,8 @@ qt_add_qml_module(state_module
     SOURCES
         src/Iris/Launcher.h
         src/Iris/Launcher.cpp
+        src/Iris/Notch.h
+        src/Iris/Notch.cpp
         src/Iris/State.h
         src/Iris/State.cpp
 )
